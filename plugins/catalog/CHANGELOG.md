@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog
 
+## 1.12.1-next.3
+
+### Patch Changes
+
+- 136cea792bd4: Fixed an issue causing `EntitySwitch` to unmount its children once entity refresh was invoked
+
 ## 1.12.1-next.2
 
 ### Patch Changes

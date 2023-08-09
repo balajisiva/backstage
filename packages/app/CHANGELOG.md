@@ -1,5 +1,19 @@
 # example-app
 
+## 0.2.86-next.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-api-docs@0.9.7-next.3
+  - @internal/plugin-catalog-customized@0.0.13-next.3
+  - @backstage/plugin-catalog-graph@0.2.33-next.2
+  - @backstage/plugin-explore@0.4.7-next.1
+  - @backstage/plugin-org@0.6.11-next.2
+  - @backstage/plugin-scaffolder@1.14.2-next.2
+  - @backstage/plugin-scaffolder-react@1.5.2-next.1
+  - @backstage/plugin-techdocs-module-addons-contrib@1.0.16-next.1
+
 ## 0.2.86-next.2
 
 ### Patch Changes
